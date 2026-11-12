@@ -1,0 +1,23 @@
+{
+  "title": "ΩNeiron Seal",
+  "upload_type": "software",
+  "description": "Your authorship travels with your work, including through AI tools. A provenance seal for creators, with a public verification key. By Oneiron Holdings LLC. The method is not published.",
+  "creators": [
+    {
+      "name": "Weis, Aaron Michael",
+      "affiliation": "Oneiron Holdings LLC",
+      "orcid": "0009-0002-1906-148X"
+    }
+  ],
+  "version": "1.0.0",
+  "access_right": "restricted",
+  "access_conditions": "Available to licensed customers. Contact Oneiron Holdings LLC.",
+  "license": "other-closed",
+  "keywords": [
+    "provenance",
+    "authorship",
+    "verification",
+    "Oneiron Seal",
+    "ONX Seal"
+  ]
+}

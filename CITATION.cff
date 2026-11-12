@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or cite this product, please cite this release as described in this file."
+title: "ΩNeiron Seal"
+version: "1.0.0"
+date-released: "2026-11-11"
+type: software
+authors:
+  - family-names: "Weis"
+    given-names: "Aaron Michael"
+    orcid: "https://orcid.org/0009-0002-1906-148X"
+    affiliation: "Oneiron Holdings LLC"
+license: LicenseRef-ONX-Seal-Commercial-1.0
+abstract: "Your authorship travels with your work, including through AI tools. A provenance seal for creators, with a public verification key. By Oneiron Holdings LLC. The method is not published."
+keywords:
+  - provenance
+  - authorship
+  - verification
+  - "Oneiron Seal"
+  - "ONX Seal"

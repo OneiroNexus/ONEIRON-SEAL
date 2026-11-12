@@ -13,12 +13,8 @@ Also searchable as "Oneiron Seal". Your authorship travels with your work, inclu
 ## What is not in this record
 The method, its parameters, and any key or other secret material are not part of this record and are not distributed with it.
 
-## Verification
-Signing key ID: `14CE5A358F18D1C1` (minisign, Ed25519)
-Public key: `RWTB0RiPNVrOFLQozGIdbkpSEZEKbO4HoCGYndqnT7cIVXllaXA4AlvR`
-The same key is in `seal_public.pub`.
 
-To check this release with [minisign](https://jedisct1.github.io/minisign/):
+To check this release with[minisign](https://jedisct1.github.io/minisign/):
 `minisign -V -p seal_public.pub -m RELEASE_MANIFEST.txt`
 Then compare each file's SHA-256 with the lines in `RELEASE_MANIFEST.txt`.
 
